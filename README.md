@@ -22,7 +22,9 @@ Enter any query, and the app will:
 
 ## 📸 Demo
 
-_Add screenshot or gif of the app UI here (optional)_
+
+![App Demo](Screenshot 2025-06-01 163819.png)
+![App Demo](Screenshot 2025-06-01 163845.png)
 
 ---
 
@@ -30,7 +32,7 @@ _Add screenshot or gif of the app UI here (optional)_
 
 - `best productivity tools`
 - `how to improve sleep`
-- `instagram channels for individual soccer training`
+- `Philosophy Concepts to Fall Asleep To`
 
 ---
 
