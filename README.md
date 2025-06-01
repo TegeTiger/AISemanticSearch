@@ -101,4 +101,4 @@ streamlit run main.py
 ## 🧑‍💻 Author
 
 Built by Omar Taha  
-Connect on [LinkedIn](https://www.linkedin.com/) or [GitHub](https://github.com/your-username)
+Connect on [LinkedIn](https://www.linkedin.com/in/omar-taha-133840269/) or [GitHub](https://github.com/TegeTiger)
