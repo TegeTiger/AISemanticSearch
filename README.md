@@ -23,8 +23,8 @@ Enter any query, and the app will:
 ## 📸 Demo
 
 
-![App Demo](Screenshot 2025-06-01 163819.png)
-![App Demo](Screenshot 2025-06-01 163845.png)
+![App Demo 1](demo1.png.png)  
+![App Demo 2](demo2.png.png)
 
 ---
 
