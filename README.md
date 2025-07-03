@@ -1,4 +1,4 @@
-# 🔍 AI-Powered Semantic Search Summarizer
+# AI-Powered Semantic Search Summarizer
 
 This is a Streamlit-based web app that combines **semantic search**, **real-time web scraping**, and **GPT-powered summarization** into one workflow. 
 
@@ -10,17 +10,17 @@ Enter any query, and the app will:
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔎 Semantic Search (Exa API)
-- 🧠 AI Summarization (OpenAI GPT-3.5)
-- 🎥 Video-Aware Logic (YouTube support)
-- 📄 Clean UI with Streamlit
-- 🔐 Secure key management using `.env`
+-  Semantic Search (Exa API)
+-  AI Summarization (OpenAI GPT-3.5)
+-  Video-Aware Logic (YouTube support)
+-  Clean UI with Streamlit
+-  Secure key management using `.env`
 
 ---
 
-## 📸 Demo
+##  Demo
 
 
 ![App Demo 1](demo1.png.png)  
@@ -28,7 +28,7 @@ Enter any query, and the app will:
 
 ---
 
-## 🧪 Example Queries
+##  Example Queries
 
 - `best productivity tools`
 - `how to improve sleep`
@@ -36,7 +36,7 @@ Enter any query, and the app will:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Streamlit
 - OpenAI API
@@ -47,7 +47,7 @@ Enter any query, and the app will:
 
 ---
 
-## 🔧 Setup Instructions
+##  Setup Instructions
 
 1. Clone this repo
 ```bash
@@ -82,7 +82,7 @@ streamlit run main.py
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - YouTube videos must have transcripts available.
 - Instagram and TikTok links are silently skipped.
@@ -90,7 +90,7 @@ streamlit run main.py
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 
 Built by Omar Taha  
 Connect on [LinkedIn](https://www.linkedin.com/in/omar-taha-133840269/) or [GitHub](https://github.com/TegeTiger)
