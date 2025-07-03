@@ -51,7 +51,7 @@ Enter any query, and the app will:
 
 1. Clone this repo
 ```bash
-git clone https://github.com/your-username/my-ai-search.git
+git clone https://github.com/TegeTigere/my-ai-search.git
 cd my-ai-search
 ```
 
@@ -87,16 +87,6 @@ streamlit run main.py
 - YouTube videos must have transcripts available.
 - Instagram and TikTok links are silently skipped.
 - GPT token limit is conservative to avoid overuse (you can adjust it).
-
----
-
-## 🧠 Future Ideas
-
-- Save past searches and summaries
-- Add domain filters (e.g., show only `.edu` or `.gov`)
-- Allow GPT-4 model toggle
-- Export summaries to PDF or markdown
-- Authentication and usage tracking
 
 ---
 
